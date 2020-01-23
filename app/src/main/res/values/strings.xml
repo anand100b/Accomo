@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Accomo</string>
     <color name="white">#FFFFFF</color>
+    <string name="my_text"> <u>Forget Password?</u></string>
+    <string name="this_text"><u>Sign Up</u></string>
+
 
 </resources>
